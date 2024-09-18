@@ -4,7 +4,7 @@ Aquí tienes un ejemplo de cómo puedes estructurar el archivo `README.md` para 
 
 # 🚛 **InspectApp** - Vehicle Inspection Automation for the US 📱
 
-![InspectApp](./assets/app-screenshot.png)
+![InspectApp]
 
 ## **Overview**
 

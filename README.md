@@ -4,8 +4,6 @@ Aquí tienes un ejemplo de cómo puedes estructurar el archivo `README.md` para 
 
 # 🚛 **InspectApp** - Vehicle Inspection Automation for the US 📱
 
-![InspectApp]
-
 ## **Overview**
 
 InspectApp is a custom-built Android application designed to streamline the inspection process for heavy-duty vehicles in the United States. With a focus on efficiency and precision, this app automates data entry by scanning PDF417 barcodes and allows users to generate, update, and share detailed reports. 

@@ -46,10 +46,11 @@ Built using **Xamarin Forms** and **C#**, the app was developed and completed wi
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="./img/1.jpeg" alt="App Screenshot" width="250"/> 
 <img src="./img/2.jpeg" alt="App Screenshot" width="250"/>
+<img src="./img/3.jpeg" alt="App Screenshot" width="250"/>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
- <img src="./img/3.jpeg" alt="App Screenshot" width="250"/>
+ 
 <img src="./img/4.jpeg" alt="App Screenshot" width="250"/>
 </div>
 
